@@ -1,4 +1,4 @@
-# Vectara RAG SaaS
+# GenData RAG SaaS
 
 **Secure, multi-tenant Retrieval-Augmented Generation (RAG) as a Service**  
 Built using FastAPI, Streamlit, and Vectara.
@@ -14,7 +14,7 @@ This project is the foundation of a commercial AI platform that allows clients t
 
 ## 📂 File Structure
 
-vectara-rag-saas/
+gendata-rag-saas/
 ├── backend/        # FastAPI backend
 ├── frontend/       # Streamlit UI
 ├── docs/           # MkDocs-based documentation site
