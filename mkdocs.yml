@@ -1,0 +1,7 @@
+site_name: Vectara RAG SaaS
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Architecture: architecture.md
+  - Usage: usage.md
