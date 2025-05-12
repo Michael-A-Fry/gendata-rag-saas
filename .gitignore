@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.env
+.env.*
+
+# Streamlit
+frontend/.streamlit/
+
+# MkDocs output
+site/
+
+# VSCode
+.vscode/
